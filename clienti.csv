@@ -1,0 +1,16 @@
+id_client,nume,varsta,oras,tip_card,data_inscriere,puncte_fidelitate
+C001,Popescu Ion,34,Bucuresti,Gold,2021-03-15,1250
+C002,Ionescu Maria,45,Cluj-Napoca,Silver,2020-07-22,870
+C003,Gheorghe Andrei,28,Bucuresti,Bronze,2022-01-10,320
+C004,Stan Elena,52,Timisoara,Gold,2019-11-05,2100
+C005,Dumitrescu Radu,39,Bucuresti,Silver,2021-06-18,650
+C006,Constantin Ana,61,Iasi,Bronze,2023-02-28,180
+C007,Popa Mihai,47,Cluj-Napoca,Gold,2020-04-12,1780
+C008,Vasile Cristina,33,Brasov,Silver,2022-09-01,540
+C009,Tudor George,25,Bucuresti,Bronze,2023-05-17,90
+C010,Marin Ioana,41,Timisoara,Gold,2019-08-30,2340
+C011,Dinu Alexandru,36,Bucuresti,Silver,2021-12-03,710
+C012,Niculescu Sorin,29,Iasi,Bronze,2022-11-14,260
+C013,Badea Carmen,55,Brasov,Gold,2020-01-25,1920
+C014,Stoica Victor,43,Bucuresti,Silver,2021-04-09,480
+C015,Neagu Florina,38,Cluj-Napoca,Bronze,2023-03-21,150

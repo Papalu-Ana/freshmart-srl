@@ -1,0 +1,21 @@
+id_produs,nume_produs,categorie,pret_unitar,stoc_initial,furnizor
+P001,Lapte 1L,Lactate,6.50,500,Albalact
+P002,Iaurt natural 400g,Lactate,5.20,300,Danone
+P003,Branza telemea 500g,Lactate,18.90,200,Napolact
+P004,Paine alba 500g,Panificatie,4.30,800,Vel Pitar
+P005,Paine integrala 500g,Panificatie,5.80,600,Vel Pitar
+P006,Cozonac 800g,Panificatie,24.50,150,Vel Pitar
+P007,Piept pui 1kg,Carne,22.90,400,Transavia
+P008,Carne tocata vita 500g,Carne,19.50,300,Angst
+P009,Salam de vara 300g,Mezeluri,14.20,250,Cris-Tim
+P010,Sunca presata 200g,Mezeluri,12.80,200,Cris-Tim
+P011,Mere Ionatan 1kg,Fructe-Legume,5.90,1000,Producator local
+P012,Rosii 1kg,Fructe-Legume,7.40,800,Producator local
+P013,Cartofi 2kg,Fructe-Legume,6.20,1200,Producator local
+P014,Ulei floarea soarelui 1L,Uleiuri,9.80,600,Argus
+P015,Zahar 1kg,Produse uscate,7.50,700,Bod
+P016,Faina alba 1kg,Produse uscate,4.20,500,Dobrogea
+P017,Orez 1kg,Produse uscate,8.90,400,Baneasa
+P018,Suc portocale 1L,Bauturi,8.50,350,Tymbark
+P019,Apa plata 2L,Bauturi,3.20,1000,Borsec
+P020,Cola 2L,Bauturi,11.90,300,Coca-Cola
